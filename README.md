@@ -1,3 +1,8 @@
+## Fork from Women Who Code Taipei. 
+I give a lecture about introduction to Computer Vision with concepts and coding. Please refer to the following:
++ PPT: [23]
++ Code: [65]
+
 # Machine Learning Study Group: Deep Learning with Python
 
 ## 目的:
@@ -166,3 +171,4 @@
 [62]:https://www.coursera.org/learn/ntumlone-mathematicalfoundations
 [63]:https://www.coursera.org/learn/ntumlone-algorithmicfoundations
 [64]:https://www.deeplearning.ai/
+[65]:https://drive.google.com/open?id=1iSoI-oq7hTg2QA9ff_dc67IkLRWAtrx8
