@@ -1,6 +1,6 @@
 ## Fork from Women Who Code Taipei. 
 I give a lecture about introduction to Computer Vision with concepts and coding. Please refer to the following:
-+ [PPT][23]
++ [PPT][21]
 + [Code][65]
 
 # Machine Learning Study Group: Deep Learning with Python
