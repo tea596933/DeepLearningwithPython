@@ -1,5 +1,5 @@
 ## Fork from Women Who Code Taipei. 
-I give a lecture about introduction to Computer Vision with concepts and coding. Please refer to the following:
+I give a lecture about introduction to Computer Vision with concepts and the code. Please refer to the following:
 + [PPT][21]
 + [Code][65]
 
